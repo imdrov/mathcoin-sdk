@@ -1,0 +1,26 @@
+{
+  "name": "mathcoin-sdk",
+  "version": "1.0.0",
+  "description": "Модуль для работы с API MathCoin",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdrov/mathcoin-sdk.git"
+  },
+  "keywords": [
+    "api",
+    "mathcoin",
+    "mathcoin-api",
+    "vk"
+  ],
+  "author": "imdrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imdrov/mathcoin-sdk/issues"
+  },
+  "homepage": "https://github.com/imdrov/mathcoin-sdk#readme"
+}
